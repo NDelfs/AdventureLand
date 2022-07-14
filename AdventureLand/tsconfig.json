@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "target": "es6",
+    "lib": [ "es6" ],
+    "sourceMap": true,
+    "typeRoots": [ "./types", "./node_modules/@types" ],
+    "outDir": "C:\\Users\\Pishi\\AppData\\Roaming\\Adventure Land\\autosync5091531104452608\\adventureland\\codes"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
